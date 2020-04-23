@@ -7,27 +7,27 @@ Debido a la problemática recurrente sobre el desconocimiento de la ubicación d
 
 ## Integrantes:busts_in_silhouette:
 
-   Nombre            |						Usuario						| Legajo UNQ |							Email
----------------------|--------------------------------------------------|------------|----------------------------------------------------------
-Victor Mariano Degano|[@VictorDegano](https://github.com/VictorDegano)  |    26106   | [flame.el22@gmail.com](mailto:flame.el22@gmail.com)
-José Sanchez         |[@ColoJose](https://github.com/ColoJose)          | 28674 | [msanchez.jose.94@gmail.com](mailto:msanchez.jose.94@gmail.com)
+| Nombre                | Usuario                                          | Legajo UNQ | Email                                                        |
+| --------------------- | ------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| Victor Mariano Degano | [@VictorDegano](https://github.com/VictorDegano) | 26106      | [flame.el22@gmail.com](mailto:flame.el22@gmail.com)          |
+| José Sanchez          | [@ColoJose](https://github.com/ColoJose)         | 28674      | [msanchez.jose.94@gmail.com](mailto:msanchez.jose.94@gmail.com) |
 
 ## Repositorios:package:
 
-:wrench: [Back-End](https://github.com/ColoJose/backend-tip)
+:wrench: [Back-End](https://github.com/ColoJose/backend-misaulasunq)
 
-:globe_with_meridians:[Front-End](https://github.com/ColoJose/frontend-tip)
+:globe_with_meridians:[Front-End](https://github.com/ColoJose/frontend-misaulasunq)
 
-:notebook:[Documentacion](https://github.com/ColoJose/documentation-tip)
+:notebook:[Documentacion](https://github.com/ColoJose/documentation-misaulasunq)
 
 ## Estado del Proyecto:traffic_light:
 
 ###### Travis:
 
 Back-End:
-- [![Build Status](https://travis-ci.com/ColoJose/backend-tip.svg?branch=master)](https://travis-ci.com/ColoJose/backend-tip.svg?branch=master) Back-End Master Branch
-- [![Build Status](https://travis-ci.com/ColoJose/backend-tip.svg?branch=develop)](https://travis-ci.com/ColoJose/backend-tip.svg?branch=develop) Back-End Develop Branch
+- [![Build Status](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=master) Back-End Master Branch
+- [![Build Status](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=develop) Back-End Develop Branch
 
 Front-End:
-- [![Build Status](https://travis-ci.com/ColoJose/frontend-tip.svg?branch=master)](https://travis-ci.com/ColoJose/frontend-tip.svg?branch=master) Front-End Master Branch
-- [![Build Status](https://travis-ci.com/ColoJose/frontend-tip.svg?branch=develop)](https://travis-ci.com/ColoJose/frontend-tip.svg?branch=develop) Front-End Develop Branch
+- [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master) Front-End Master Branch
+- [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop) Front-End Develop Branch
