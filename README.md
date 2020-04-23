@@ -31,3 +31,11 @@ Back-End:
 Front-End:
 - [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master) Front-End Master Branch
 - [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop) Front-End Develop Branch
+
+## Documentación
+
+- [Documento de visión y alcance](https://docs.google.com/document/d/1ZsiQwwdpHP-cEioco6vOfrMEKiiXi3nH5KlFvnEJvKE/edit)
+
+### Entregas
+
+- [Entrega 0 - Proof of concept](https://docs.google.com/document/d/1dq01W-nocRIZN9BNe7Il6tCr0drTodEFmF5bTeAwj40/edit)
