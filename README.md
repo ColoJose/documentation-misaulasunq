@@ -34,8 +34,11 @@ Front-End:
 
 ## Documentación
 
-- [Documento de visión y alcance](https://docs.google.com/document/d/1ZsiQwwdpHP-cEioco6vOfrMEKiiXi3nH5KlFvnEJvKE/edit)
+- [Documento de visión y alcance (Wiki)](https://github.com/ColoJose/documentation-misaulasunq/wiki)
 
 ### Entregas
 
-- [Entrega 0 - Proof of concept](https://docs.google.com/document/d/1dq01W-nocRIZN9BNe7Il6tCr0drTodEFmF5bTeAwj40/edit)
+- [Entrega 0 - Proof of concept](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-0---(Prueba-de-Concepto))
+- [Entrega 1](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-1)
+- [Entrega 2](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-2)
+- [Entrega 3](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-3)
