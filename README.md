@@ -1,6 +1,4 @@
-![](https://github.com/ColoJose/documentation-misaulasunq/blob/master/Logo.png=150px)
-
-# Mis Aulas UNQ
+# Mis Aulas UNQ <img alt="Mis Aulas UNQ Logo" src="https://github.com/ColoJose/documentation-misaulasunq/blob/master/Logo.png" width="40"> 
 
 ## Descripción:page_facing_up:
 Debido a la problemática recurrente sobre el desconocimiento de la ubicación de las aulas (O la falta de una clara descripción de la ubicación de la misma), esta aplicación busca facilitar una visualización de la la ubicación del aula en la universidad y también las materias que se dictan en la misma.
