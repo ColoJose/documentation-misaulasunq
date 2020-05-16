@@ -1,4 +1,4 @@
-![https://github.com/ColoJose/documentation-misaulasunq/Logo.png](https://github.com/ColoJose/documentation-misaulasunq/Logo.png)
+![](https://github.com/ColoJose/documentation-misaulasunq/blob/master/Logo.png=150px)
 
 # Mis Aulas UNQ
 
