@@ -1,4 +1,4 @@
-![](http://)
+![https://github.com/ColoJose/documentation-misaulasunq/Logo.png](https://github.com/ColoJose/documentation-misaulasunq/Logo.png)
 
 # Mis Aulas UNQ
 
