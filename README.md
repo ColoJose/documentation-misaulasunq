@@ -24,13 +24,16 @@ Debido a la problemática recurrente sobre el desconocimiento de la ubicación d
 
 ###### Back-End:
 
-- [![Build Status](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=master) Back-End Master Branch
-- [![Build Status](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=develop) Back-End Develop Branch
+- [![Build Status](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/backend-misaulasunq) Back-End Master Branch
+- [![Build Status](https://travis-ci.com/ColoJose/backend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/backend-misaulasunq) Back-End Develop Branch
 
 ###### Front-End:
 
-- [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master) Front-End Master Branch
-- [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop) Front-End Develop Branch
+- [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=master)](https://travis-ci.com/ColoJose/frontend-misaulasunq) Front-End Master Branch
+
+- [![Build Status](https://travis-ci.com/ColoJose/frontend-misaulasunq.svg?branch=develop)](https://travis-ci.com/ColoJose/frontend-misaulasunq) Front-End Develop Branch
+
+  
 
 ## Documentación
 
@@ -42,3 +45,4 @@ Debido a la problemática recurrente sobre el desconocimiento de la ubicación d
 - [Entrega 1](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-1)
 - [Entrega 2](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-2)
 - [Entrega 3](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-3)
+- [Entrega 4](https://github.com/ColoJose/documentation-misaulasunq/wiki/Entrega-4)
